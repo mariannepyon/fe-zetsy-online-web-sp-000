@@ -4,6 +4,10 @@
 
 /*////////// Global Styles //////////*/
 
+#featured img {
+    border: 5px rgb(152,173,166) solid;
+	}
+
 h1 {
 	font-size: 5em;
   font-weight: normal;
