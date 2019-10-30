@@ -46,6 +46,12 @@ h2 {
 	    margin-inline-end: 0px;
 		}
 
+		a:-webkit-any-link {
+	    color: -webkit-link;
+	    cursor: pointer;
+	    text-decoration: underline;
+			}
+
 
 
 
